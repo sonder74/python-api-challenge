@@ -1,5 +1,5 @@
 
-# Matplotlib-challenge
+# Python-API-challenge
 ### Table of Contents:
 
  1. [Project Goals](#project-goals)
@@ -7,7 +7,7 @@
  3. [Outcomes and Lessons Learned](#outcomes-and-lessons-learned)
    
 ## Project Goals
-With this project, I set out to improve my Python coding ability, become more adept with Pandas dataframes, and learn to do something entirely new: plot data using <a href="https://matplotlib.org/">Matplotlib</a>, a library used for creating static, animated, and interactive data visualizations. This project's tasked focused on data gathered from medical research on mice.
+With this project, I was introduced to an entirely new method of data collection: API calls. In the initial stage of this challenge, I had to gather weather data from hundreds of cities around the globe by requesting it from <a href="https://openweathermap.org/">OpenWeatherMap.org</a>, a continuously updated climate website. I then had to visualize several different dimensions of the data, find key correlations, and apply conditional logic to identify cities with certain weather patterns.
 
 ## Tools and Solutions
 As stated above, I relied on Python and its Matplotlib library to complete the project's tasks--but it was also necessary to import assets from <a href="https://www.scipy.org/">SciPy</a>, <a href="https://numpy.org/">NumPy</a>, and <a href="https://scikit-learn.org/stable/">Sklearn</a> to get the job done. I employed bar charts, pie charts, box plots, line graphs, and scatter plots to explore the data and draw conclusions. This project also served as my introduction to statistial analysis, and I plotted my first linear regression equation, which modeled a correlation between mouse weight and the size of tumors.
