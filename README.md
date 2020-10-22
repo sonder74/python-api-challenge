@@ -1,4 +1,3 @@
-
 # Python-API-challenge
 ### Table of Contents:
 
